@@ -1,0 +1,13 @@
+python-dotenv
+portia-sdk-python
+portia-sdk-python[mistralai]
+openai
+portia-sdk-python[tools-browser-local]
+portia-sdk-python[google]
+fastapi
+streamlit
+uvicorn[standard]
+pydantic
+gdown
+pdfplumber
+requests

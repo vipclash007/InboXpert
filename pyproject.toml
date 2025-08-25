@@ -1,0 +1,18 @@
+[project]
+name = "final"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "gdown>=5.2.0",
+    "openai>=1.100.2",
+    "pdfplumber>=0.11.7",
+    "portia-sdk-python[google,mistralai,tools-browser-local]>=0.6.2",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "streamlit>=1.48.1",
+    "uvicorn[standard]>=0.35.0",
+]
